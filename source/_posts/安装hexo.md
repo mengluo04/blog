@@ -1,9 +1,10 @@
 ---
 title: 安装hexo
 date: 2024-08-01 16:43:17
-tags: hexo
 categories: 
-- ["教程"]
+- 教程
+tags:
+- hexo
 ---
 # 安装
 ## 安装nodejs
