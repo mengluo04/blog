@@ -15,8 +15,12 @@ category:
   title: '分类'
   subtitle: '分类'
   post_total: '共计 %d 篇文章'
-  more: 'More...'
+  more: '更多'
 
+tool:
+  menu: '百宝箱'
+  title: '百宝箱'
+  subtitle: '百宝箱'
 tag:
   menu: '标签'
   title: '标签'
