@@ -5,7 +5,7 @@ date: 2024-08-12 11:05:49
 tags: 
 - python
 categories:
-- 教程
+- 技术
 ---
 **前置条件：已安装python3并配置了环境变量**
 windows系统
