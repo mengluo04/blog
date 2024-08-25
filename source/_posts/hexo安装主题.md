@@ -3,7 +3,7 @@ layout: blog
 title: hexo安装主题
 date: 2024-08-02 13:37:28
 categories: 
-- 教程
+- 建站
 tags: 
 - hexo
 ---
